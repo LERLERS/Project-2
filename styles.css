@@ -1,0 +1,28 @@
+h1{
+    text-align: center;
+    color: white;
+}
+body{
+    background-image: url("B.png");
+}
+p{
+    text-align: center;
+    color: white;
+}
+.img{
+    top: 50%;
+    width: 100%;
+    border-radius: 50%;
+}
+ul{
+    align-items: right;
+}
+.navbar a{
+    font-size: 18px;
+    font-weight: 500;
+    margin-left: 35px;
+    
+}
+h2,h3,h4{
+    text-align: center;
+}
